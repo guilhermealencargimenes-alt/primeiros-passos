@@ -4,7 +4,10 @@
     text-align: center;
     max-height: 800px;
     margin: 0 auto;
+    border: 5px solid peru;
+    padding: 16px;
 }
+
 main{
     background-color: brown;
     color: chocolate;
@@ -12,4 +15,14 @@ main{
     text-align: center;
     max-height: 800px;
     margin: 0 auto;
+}
+img {
+    width: 880px;
+    height: 80px;
+}
+div p {
+    font-weight: bold;
+}
+.artigo-autor{
+    font-weight: bold;
 }
